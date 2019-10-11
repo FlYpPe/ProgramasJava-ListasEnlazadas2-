@@ -44,6 +44,8 @@ public class pruebaPromTemp {
 		l1.agregarElemenentoAlInicio(t5);
 		System.out.println(l1.mostrarPromedio(l1, "20/15/2012"));
 		
+
+
 	}
 
 }
